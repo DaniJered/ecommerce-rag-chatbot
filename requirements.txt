@@ -1,0 +1,5 @@
+pandas
+requests
+sentence-transformers
+torch
+scikit-learn
